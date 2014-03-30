@@ -1,0 +1,13 @@
+# Server version 0.08 running on 192.168.2.27:8123
+# Game ID: 50
+# Board class: halma.CCBoard
+# Timeout: 300000
+# Date: Sat Mar 29 23:04:00 EDT 2014
+# Player 1: Player-0, 'improved', running on localhost
+# Player 2: Player-1, 'improved', running on localhost
+# Player 3: Player-2, 'improved', running on localhost
+# Player 4: Player-3, 'improved', running on localhost
+START Player-0 improved
+START Player-1 improved
+START Player-2 improved
+START Player-3 improved
