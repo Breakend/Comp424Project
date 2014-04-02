@@ -15,12 +15,12 @@ import boardgame.Player;
 /**
  * Slightly improved Halma player
  */
-public class s260457751PlayerI extends Player {
+public class s260457751PlayerIII extends Player {
     Random rand = new Random();
     
     /** Provide a default public constructor */
-    public s260457751PlayerI() { super("improved"); }
-    public s260457751PlayerI(String s) { super(s); }
+    public s260457751PlayerIII() { super("improved"); }
+    public s260457751PlayerIII(String s) { super(s); }
     
     public Board createBoard() { return new CCBoard(); }
 
@@ -71,7 +71,7 @@ public class s260457751PlayerI extends Player {
     	CCMove best = moves.get(0);
     	int bscore = Integer.MAX_VALUE;
     	for(CCMove move : moves){
-    		if(move == null) continue;
+    		if(move == null || goingBackwards(move, this.playerID)) continue;
 //    		if(move.getTo() == null || move.getFrom() == null) continue;
     		temp = (CCBoard) board.clone();
     		temp.move(move);
@@ -117,7 +117,7 @@ public class s260457751PlayerI extends Player {
         		if(i == p.x && j == p.y) continue;
         		temp = new Point(i, j);
         		Integer id = b.getPieceAt(temp);
-            	if(id != null ) return true; //&& id == playerID
+            	if(id != null && id == playerID) return true; 
             	
         	}
     	}
@@ -199,8 +199,8 @@ public class s260457751PlayerI extends Player {
     		if(!checkIfInBase(this.playerID, piece))
     			score += distance(piece, p);
 //    			insentivize sticking with other pieces for leapfrogging
-//        		if(!sorroundingHasFriendlyPiece(board,piece,this.playerID))
-//    				score -= 1;
+        		if(!sorroundingHasFriendlyPiece(board,piece,this.playerID))
+    				score -= 1;
     	}
     	
     	//could optimize this to go in the loop above for less time complexity

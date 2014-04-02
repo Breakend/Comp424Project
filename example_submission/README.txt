@@ -12,5 +12,6 @@ java -cp $PROVIDEDCODE:./src/ boardgame.Client sXXXXXXXXX.sXXXXXXXXXPlayer
 
 Note that this command should also work with windows if you correct the classpath (what comes immediately after -cp). You might have to correct the file path format and replace ':' with ';'.
 
-java -cp ./jar/projectsrc.jar boardgame.Sver -p 8123 -t 300000 -b halma.CCBoard
-java -cp ./jar/projectsrc.jar:./example_submission/bin boardgame.Client s260457751.s260457751PlayerI localhost 8123
+java -cp ./jar/projectsrc.jar boardgame.Server -p 8123 -t 300000 -b halma.CCBoard
+java -cp ./jar/projectsrc.jar:./example_submission/bin boardgame.Client s260457751.s260457751PlayerIV localhost 8123
+java -cp ./jar/projectsrc.jar boardgame.ServerGUI logs/game00121.log
