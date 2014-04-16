@@ -1,0 +1,13 @@
+# Server version 0.08 running on 192.168.2.27:8123
+# Game ID: 104
+# Board class: halma.CCBoard
+# Timeout: 300000
+# Date: Sun Apr 06 01:38:52 EDT 2014
+# Player 1: Player-0, 'ABPruning', running on localhost
+# Player 2: Player-1, 'ABPruning', running on localhost
+# Player 3: Player-2, 'ABPruning', running on localhost
+# Player 4: Player-3, 'ABPruning', running on localhost
+START Player-0 ABPruning
+START Player-1 ABPruning
+START Player-2 ABPruning
+START Player-3 ABPruning

@@ -1,0 +1,83 @@
+1	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	107	game00001.log	
+2	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	107	game00002.log	
+3	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	25	game00003.log	TIMEOUT Player-1
+4	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	25	game00004.log	TIMEOUT Player-1
+7	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	4	game00007.log	TIMEOUT Player-1
+8	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	4	game00008.log	TIMEOUT Player-1
+9	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	6	game00009.log	TIMEOUT Player-0
+10	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	71	game00010.log	ILLEGAL MOVE: Player 1 end turn
+11	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	6	game00011.log	TIMEOUT Player-0
+12	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	13	game00012.log	TIMEOUT Player-1
+13	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	57	game00013.log	ILLEGAL MOVE: Player 3 end turn
+14	ABPruning	ABPruning	ABPruning	ABPruning	Player-0	ABPruning	52	game00014.log	ILLEGAL MOVE: Player 2 end turn
+16	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	75	game00016.log	
+17	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	74	game00017.log	
+18	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	74	game00018.log	
+19	LDFS	improved	improved	LDFS	Player-0	LDFS	79	game00019.log	
+20	improved	LDFS	LDFS	improved	Player-1	LDFS	86	game00020.log	
+21	improved	LDFS	LDFS	improved	Player-1	LDFS	92	game00021.log	
+22	improved	LDFS	LDFS	improved	Player-1	LDFS	86	game00022.log	
+23	improved	LDFS	LDFS	improved	Player-1	LDFS	86	game00023.log	
+25	improved	LDFS	LDFS	improved	Player-1	LDFS	70	game00025.log	
+26	improved	LDFS	LDFS	improved	Player-1	LDFS	70	game00026.log	
+27	random	LDFS	LDFS	random	Player-1	LDFS	82	game00027.log	
+28	improved	LDFS	LDFS	improved	Player-1	LDFS	85	game00028.log	
+32	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	68	game00032.log	
+33	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	68	game00033.log	
+34	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	86	game00034.log	
+35	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	86	game00035.log	
+36	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	84	game00036.log	
+37	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	83	game00037.log	
+38	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	70	game00038.log	
+39	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	75	game00039.log	
+40	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	84	game00040.log	
+41	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	77	game00041.log	
+42	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	68	game00042.log	
+44	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	78	game00044.log	
+45	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	121	game00045.log	
+46	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	81	game00046.log	
+47	random	LDFS	LDFS	random	Player-1	LDFS	91	game00047.log	
+48	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	82	game00048.log	
+49	LDFS	random	random	LDFS	Player-0	LDFS	100	game00049.log	
+60	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	71	game00060.log	
+62	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	77	game00062.log	
+64	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	84	game00064.log	
+65	LDFS	random	random	LDFS	Player-0	LDFS	78	game00065.log	
+66	improved	LDFS	LDFS	improved	Player-1	LDFS	81	game00066.log	
+67	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	65	game00067.log	
+68	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	73	game00068.log	
+69	random	LDFS	LDFS	random	Player-1	LDFS	87	game00069.log	
+70	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	92	game00070.log	
+71	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	92	game00071.log	
+72	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	73	game00072.log	
+73	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	73	game00073.log	
+74	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	78	game00074.log	
+75	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	92	game00075.log	
+77	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	82	game00077.log	
+78	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	73	game00078.log	
+79	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	78	game00079.log	
+80	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	78	game00080.log	
+81	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	72	game00081.log	
+82	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	82	game00082.log	
+83	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	76	game00083.log	
+84	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	72	game00084.log	
+85	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	72	game00085.log	
+86	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	78	game00086.log	
+87	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	65	game00087.log	
+88	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	75	game00088.log	
+89	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	79	game00089.log	
+90	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	74	game00090.log	
+91	LDFS	LDFS	random	random	Player-0	LDFS	100	game00091.log	
+92	random	LDFS	LDFS	random	Player-1	LDFS	82	game00092.log	
+93	random	LDFS	LDFS	random	Player-1	LDFS	80	game00093.log	
+94	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	72	game00094.log	
+95	LDFS	LDFS	LDFS	LDFS	Player-0	LDFS	82	game00095.log	
+96	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	1	game00096.log	ILLEGAL MOVE: Player 1 move from (C,15) to (E,15)
+103	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	100	game00103.log	
+107	ABPruning	ABPruning	ABPruning	ABPruning	Player-1	ABPruning	100	game00107.log	
+112	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	74	game00112.log	
+113	LDFS	LDFS	LDFS	LDFS	Player-1	LDFS	74	game00113.log	
+114	random	LDFS	LDFS	random	Player-1	LDFS	73	game00114.log	
+115	260457751	260457751	260457751	260457751	Player-1	260457751	74	game00115.log	
+116	260457751	Human	random	random	UNDECIDED	NOBODY	0	game00116.log	USER CANCEL
+117	260457751	random	random	random	Player-0	260457751	100	game00117.log	

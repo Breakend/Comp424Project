@@ -1,0 +1,13 @@
+# Server version 0.08 running on 192.168.2.27:8123
+# Game ID: 50
+# Board class: halma.CCBoard
+# Timeout: 300000
+# Date: Fri Apr 04 18:39:38 EDT 2014
+# Player 1: Player-0, 'LDFS', running on localhost
+# Player 2: Player-1, 'LDFS', running on localhost
+# Player 3: Player-2, 'LDFS', running on localhost
+# Player 4: Player-3, 'LDFS', running on localhost
+START Player-0 LDFS
+START Player-1 LDFS
+START Player-2 LDFS
+START Player-3 LDFS
