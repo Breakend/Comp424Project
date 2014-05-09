@@ -1,9 +1,0 @@
-README
---------
-
-Directory structure
-	/previous - contains previous attempts referenced in the report
-					- Player I-III are generally Minimax
-					- Player MC and V-VI are Monte Carlo based
-	/s260457751 - final player
-	/s260457751.mytools - tools for final player
